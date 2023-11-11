@@ -16,7 +16,7 @@ html {
 body {
     margin-bottom: 60px;
     background-color: #555557;
-    color: #CED7DB;;
+    color: #CED7DB;
 }
 
 .profile-picture {
@@ -48,4 +48,20 @@ body {
 
 .dark-gray {
     background-color: #555557;
+}
+
+.text-off-white {
+    color: #F2F2F2;
+}
+
+.text-light-gray {
+    color: #CED7DB;
+}
+
+.text-gray {
+    color: #B1B1BA;
+}
+
+.text-dark-gray {
+    color: #555557;
 }
